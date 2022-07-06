@@ -2,7 +2,7 @@
 
 <div align=center>
   <p><i>"Programming skill is the art of bringing order into chaos and handling complexity."</i></p>
-  <p align=end>~ <a href="https://www.linkedin.com/in/nino-l-a0b183196">Nino L.</a></p>
+  <p align=center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~<a href="https://www.linkedin.com/in/nino-l-a0b183196">Nino L.</a></p>
 </div>
 
 ## 🧬 Programming Language
@@ -35,7 +35,7 @@
 `Linear Algebra`, `Probability & Statistics`, `Calculus`, `Algorithms & Data Structures`, `Big O Notation`.
 
 ## ⌚ Free Time
-* Sport: Running, Calisthenic, X-Fit.
-* Martial Arts / Self-Defense: BJJ, Silat, Krav Maga.
-* Traveling / Culinary Adventure.
-* Cooking.
+* Sport: `Running`, `Calisthenic`, `X-Fit`, `Marching`.
+* Martial Arts / Self-Defense: `BJJ`, `Silat`, `Krav Maga`.
+* `Traveling` / `Culinary Adventure`.
+* `Cooking`.
